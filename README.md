@@ -7,5 +7,7 @@
  #2 Run npm start
  #3 Run react-native run-android
  
- Screenshot:
+ Screenshot: 1613879861941.JPEG (Please chcek this image for screenshot)
+
+
  
